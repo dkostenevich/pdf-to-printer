@@ -1,6 +1,6 @@
 # PDF to Printer
 
-[![codecov](https://codecov.io/gh/artiebits/pdf-to-printer/branch/master/graph/badge.svg)](https://codecov.io/gh/artiebits/pdf-to-printer)
+[![codecov](https://codecov.io/gh/dkostenevich/pdf-to-printer/branch/master/graph/badge.svg)](https://codecov.io/gh/dkostenevich/pdf-to-printer)
 ![npm](https://img.shields.io/npm/dw/pdf-to-printer)
 
 A powerful Node.js and Electron utility for printing PDFs and images to Windows printers.
@@ -13,7 +13,7 @@ A powerful Node.js and Electron utility for printing PDFs and images to Windows 
 - **Printer discovery** - list all available printers
 - **Fast and reliable** using SumatraPDF engine
 - **TypeScript support** with full type definitions
-- **Windows only** - for Unix-like systems, see [unix-print](https://github.com/artiebits/unix-print)
+- **Windows only** - for Unix-like systems, see [unix-print](https://github.com/dkostenevich/unix-print)
 
 ## Installation
 
@@ -52,7 +52,7 @@ console.log(defaultPrinter?.name);
 
 If you rely on this package, please consider supporting it. Maintaining an open source project takes time and your support would be greatly appreciated.
 
-<a href="https://www.buymeacoffee.com/artiebits" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 207px !important;" ></a>
+<a href="https://www.buymeacoffee.com/dkostenevich" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 207px !important;" ></a>
 
 ## API Reference
 
